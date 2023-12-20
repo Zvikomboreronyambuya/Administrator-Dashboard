@@ -1,4 +1,4 @@
-**Project Administrator- Dashboard **
+**Project Administrator- Dashboard**
 
 - HTML and CSS only.
 - CSS Grid and Flex combined.
