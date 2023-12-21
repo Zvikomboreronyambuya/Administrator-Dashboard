@@ -98,6 +98,19 @@ input {
 .card {
     background-color: #FFFFFF;
     border-left: 5px solid #F0B429;
+    display: flex; /* flex to texts and icond */
+    flex-direction: column;
+}
+
+.box1, .box2, .box3, .box4, .box5, .box6 {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+
+.btmicons img {
+    width: 40px;
+    height: 40px;
 }
 
 .logo img {
@@ -250,3 +263,4 @@ h4, h6 {
         margin-bottom: 15px;
     }
 }
+
